@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1460667951 source:c:\users\knight\desktop\knight\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
